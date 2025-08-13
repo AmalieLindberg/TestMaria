@@ -4,12 +4,15 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Menus;
 
 type
   TForm1 = class(TForm)
     Label1: TLabel;
     Label2: TLabel;
+    Label3: TLabel;
+    MainMenu1: TMainMenu;
+    Label4: TLabel;
   private
     { Private declarations }
   public
