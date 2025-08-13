@@ -23,7 +23,7 @@ object Form1: TForm1
     Left = 192
     Top = 112
     Width = 30
-    Height = 49
+    Height = 15
     Caption = 'Maria'
   end
   object Label3: TLabel
@@ -36,9 +36,9 @@ object Form1: TForm1
   object Label4: TLabel
     Left = 312
     Top = 248
-    Width = 37
+    Width = 40
     Height = 15
-    Caption = 'Amalie'
+    Caption = 'AAAAA'
   end
   object MainMenu1: TMainMenu
     Left = 264

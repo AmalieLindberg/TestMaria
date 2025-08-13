@@ -1,7 +1,7 @@
 unit Unit1;
 
 interface
-
+               ///lad os håbe denne virker så
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Menus;
